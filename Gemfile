@@ -15,6 +15,7 @@ group :development, :test do
   gem 'capybara'
   gem 'faker'
   gem 'sqlite3'
+  gem 'ruby_gntp'
 end
 
  gem 'bcrypt-ruby', '~> 3.0.0'
